@@ -38,3 +38,5 @@ Multi-Threads using Timer
         }
 
 2. output
+
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_8/main/Timer.scheduleTimer.png)
